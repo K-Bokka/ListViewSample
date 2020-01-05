@@ -13,4 +13,5 @@
     <item>焼き魚定食</item>
     <item>焼肉定食</item>
   </string-array>
+  <string name="ts_word">あなたが選んだ定食:</string>
 </resources>
